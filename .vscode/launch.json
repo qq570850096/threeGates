@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreeGatesExperiment",
+            "request": "launch",
+            "mainClass": "ThreeGatesExperiment",
+            "projectName": "ThreeGatesExperiments"
+        }
+    ]
+}
